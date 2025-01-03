@@ -1,0 +1,30 @@
+
+
+* {
+  font-family: Tahoma, Arial, sans-serif; 
+}
+
+h1 {
+  font-size: 50px;
+  color: green;
+} 
+
+h2, h3 {
+  color: #800080;
+}
+
+.imgwidth {
+  height: auto;
+  width: 300px;
+}
+
+li {
+  font-family: Monospace, Arial, Sans-serif;
+  color: hsl(39, 100%, 50%);
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.grey {
+  color:grey;
+}
