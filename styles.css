@@ -28,7 +28,7 @@ h3 {
 }
 
 .home {
-  margin: 50px auto;
+  margin: 30px auto;
   padding: 0 1%;
   color: hsl(39, 100%, 50%);
   font-size: 20px;
@@ -37,7 +37,7 @@ h3 {
 }
 
 .section {
-  margin: 50px auto;
+  margin: 30px auto;
   border: 5px dotted pink;
   padding: 0 1%;
   color: hsl(39, 100%, 50%);
