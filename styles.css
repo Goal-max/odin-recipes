@@ -27,6 +27,15 @@ h3 {
   color:#0000ff;
 }
 
+.home {
+  margin: 50px auto;
+  padding: 0 1%;
+  color: hsl(39, 100%, 50%);
+  font-size: 20px;
+  font-weight: 700;
+  display: inline-block;
+}
+
 .section {
   margin: 50px auto;
   border: 5px dotted pink;
@@ -35,7 +44,7 @@ h3 {
   font-size: 20px;
   font-weight: 700;
   display: inline-block;
-  vertical-align: top;  
+  vertical-align: top;
 }
 
 .column, 
@@ -51,7 +60,8 @@ h3 {
 
 .inlineblock {
   display: inline-block;
-  border:5px solid black;
+  border:5px dotted rgb(128, 0, 128);
+  vertical-align: top;
 }
 
 .column {
